@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="1" hostname="WillHall-MBPrd.roc.mn.charter.com" name="testUnsignedEula(Tests.LoginTests)" skipped="0" tests="1" time="56.302" timestamp="2020-06-15T15:09:11">
+  <properties />
+  <testcase classname="TrueUserTests.TrueUser.DescriptionAsTest" name="testUnsignedEula(Tests.LoginTests)" time="56.302">
+    <error type="java.lang.NullPointerException">java.lang.NullPointerException
+	at Tests.LoginTests.testUnsignedEula(LoginTests.java:134)
+	at TrueUserTests.TrueUser.Retry$1.evaluate(Retry.java:24)
+	at TrueUserTests.TrueUser.RegressionSuiteRunner.main(RegressionSuiteRunner.java:158)
+</error>
+  </testcase>
+  <system-out><![CDATA[We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (578c97a21c57e4255444d4645c04136e)
+Screenshot should be taken for: testUnsignedEula(Tests.LoginTests)
+Setting up chrome browser
+The value of local is:true
+I set up the iOS chrome driver
+I set up a chrome browser
+https://staging.pebblego.com
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (edaa06226cb0da5b176741ee4935050b)
+Screenshot should be taken for: FailureToRunExecuteBeforeForLoginTests
+testUnsignedEula(Tests.LoginTests) is restarting
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (edaa06226cb0da5b176741ee4935050b)
+Screenshot should be taken for: testUnsignedEula(Tests.LoginTests)
+Setting up chrome browser
+The value of local is:true
+I set up the iOS chrome driver
+I set up a chrome browser
+https://staging.pebblego.com
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (15f61e258481459255bf555dd9865dcb)
+Screenshot should be taken for: FailureToRunExecuteBeforeForLoginTests
+testUnsignedEula(Tests.LoginTests) is restarting
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (15f61e258481459255bf555dd9865dcb)
+Screenshot should be taken for: testUnsignedEula(Tests.LoginTests)
+Setting up chrome browser
+The value of local is:true
+I set up the iOS chrome driver
+I set up a chrome browser
+https://staging.pebblego.com
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (7a94c489f2f1aa4418ab8e0ddcda033d)
+Screenshot should be taken for: FailureToRunExecuteBeforeForLoginTests
+testUnsignedEula(Tests.LoginTests) is restarting
+ ====================================== Mon Jun 15 10:10:08 CDT 2020 === Execution of test case failed :testUnsignedEula
+ ====================================== Mon Jun 15 10:10:08 CDT 2020 === Finished execution of test case : testUnsignedEula
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 47920
+Only local connections are allowed.
+Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 32081
+Only local connections are allowed.
+Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 46410
+Only local connections are allowed.
+]]></system-err>
+</testsuite>

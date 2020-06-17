@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="1" hostname="WillHall-MBPrd.roc.mn.charter.com" name="testClickHomeButtonFromBiographies(Tests.StudentContentTests)" skipped="0" tests="1" time="14.593" timestamp="2020-06-14T04:55:48">
+  <properties />
+  <testcase classname="TrueUserTests.TrueUser.DescriptionAsTest" name="testClickHomeButtonFromBiographies(Tests.StudentContentTests)" time="14.592">
+    <error message="Asserts that the user is now on the Biographies Database" type="java.lang.AssertionError">java.lang.AssertionError: Asserts that the user is now on the Biographies Database
+	at Tests.StudentContentTests.testClickHomeButtonFromBiographies(StudentContentTests.java:416)
+	at TrueUserTests.TrueUser.RegressionSuiteRunner.main(RegressionSuiteRunner.java:158)
+</error>
+  </testcase>
+  <system-out><![CDATA[Starting test: testClickHomeButtonFromBiographies
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (063ac14d00310be5e77e7a61d1f8f116)
+Screenshot should be taken for: testClickHomeButtonFromBiographies(Tests.StudentContentTests)
+Setting up chrome browser
+The value of local is:true
+I set up the iOS chrome driver
+I set up a chrome browser
+https://staging.pebblego.com
+ ====================================== Sat Jun 13 23:56:03 CDT 2020 === Execution of test case failed :testClickHomeButtonFromBiographies
+ ====================================== Sat Jun 13 23:56:03 CDT 2020 === Finished execution of test case : testClickHomeButtonFromBiographies
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 14903
+Only local connections are allowed.
+]]></system-err>
+</testsuite>

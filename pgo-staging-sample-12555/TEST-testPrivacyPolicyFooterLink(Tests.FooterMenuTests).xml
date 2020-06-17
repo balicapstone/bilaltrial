@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="2" hostname="WillHall-MBPrd.roc.mn.charter.com" name="testPrivacyPolicyFooterLink(Tests.FooterMenuTests)" skipped="0" tests="1" time="104.283" timestamp="2020-06-14T05:10:42">
+  <properties />
+  <testcase classname="TrueUserTests.TrueUser.DescriptionAsTest" name="testPrivacyPolicyFooterLink(Tests.FooterMenuTests)" time="104.283">
+    <error message="Expected condition failed: waiting for visibility of all elements located by By.id: logo (tried for 15 second(s) with 500 milliseconds interval)&#xa;Build info: version: &apos;3.10.0&apos;, revision: &apos;176b4a9&apos;, time: &apos;2018-03-02T19:11:12.151Z&apos;&#xa;System info: host: &apos;WillHall-MBPrd.roc.mn.charter.com&apos;, ip: &apos;2600:6c46:7800:954:59ac:d5fb:e9a6:82fb%en0&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.14.6&apos;, java.version: &apos;1.8.0_181&apos;&#xa;Driver info: org.openqa.selenium.chrome.ChromeDriver&#xa;Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/3n/b5sknkcj0f3...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62124}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 83.0.4103.97, webStorageEnabled: true}&#xa;Session ID: f733cd1d3bea5b6e4add74e8bf3ae3b4" type="org.openqa.selenium.TimeoutException">org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of all elements located by By.id: logo (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: &apos;3.10.0&apos;, revision: &apos;176b4a9&apos;, time: &apos;2018-03-02T19:11:12.151Z&apos;
+System info: host: &apos;WillHall-MBPrd.roc.mn.charter.com&apos;, ip: &apos;2600:6c46:7800:954:59ac:d5fb:e9a6:82fb%en0&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.14.6&apos;, java.version: &apos;1.8.0_181&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/3n/b5sknkcj0f3...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62124}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 83.0.4103.97, webStorageEnabled: true}
+Session ID: f733cd1d3bea5b6e4add74e8bf3ae3b4
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at Tests.FooterMenuTests.testPrivacyPolicyFooterLink(FooterMenuTests.java:153)
+	at TrueUserTests.TrueUser.Retry$1.evaluate(Retry.java:24)
+	at TrueUserTests.TrueUser.RegressionSuiteRunner.main(RegressionSuiteRunner.java:158)
+</error>
+    <error message="Expected condition failed: waiting for visibility of all elements located by By.linkText: About Us (tried for 15 second(s) with 500 milliseconds interval)&#xa;Build info: version: &apos;3.10.0&apos;, revision: &apos;176b4a9&apos;, time: &apos;2018-03-02T19:11:12.151Z&apos;&#xa;System info: host: &apos;WillHall-MBPrd.roc.mn.charter.com&apos;, ip: &apos;2600:6c46:7800:954:59ac:d5fb:e9a6:82fb%en0&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.14.6&apos;, java.version: &apos;1.8.0_181&apos;&#xa;Driver info: org.openqa.selenium.chrome.ChromeDriver&#xa;Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/3n/b5sknkcj0f3...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62162}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 83.0.4103.97, webStorageEnabled: true}&#xa;Session ID: 3582cbe346a6ec4888b6b90bb1325d9b" type="org.openqa.selenium.TimeoutException">org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of all elements located by By.linkText: About Us (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: &apos;3.10.0&apos;, revision: &apos;176b4a9&apos;, time: &apos;2018-03-02T19:11:12.151Z&apos;
+System info: host: &apos;WillHall-MBPrd.roc.mn.charter.com&apos;, ip: &apos;2600:6c46:7800:954:59ac:d5fb:e9a6:82fb%en0&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.14.6&apos;, java.version: &apos;1.8.0_181&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/3n/b5sknkcj0f3...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62162}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 83.0.4103.97, webStorageEnabled: true}
+Session ID: 3582cbe346a6ec4888b6b90bb1325d9b
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at Tests.FooterMenuTests$1.failed(FooterMenuTests.java:60)
+	at TrueUserTests.TrueUser.Retry$1.evaluate(Retry.java:24)
+	at TrueUserTests.TrueUser.RegressionSuiteRunner.main(RegressionSuiteRunner.java:158)
+</error>
+  </testcase>
+  <system-out><![CDATA[Starting test: testPrivacyPolicyFooterLink
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (588f1b7d78291787562ef8052ba49f32)
+Screenshot should be taken for: testPrivacyPolicyFooterLink(Tests.FooterMenuTests)
+Setting up chrome browser
+The value of local is:true
+I set up the iOS chrome driver
+I set up a chrome browser
+https://staging.pebblego.com
+testPrivacyPolicyFooterLink(Tests.FooterMenuTests) is restarting
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (80c9633dcddad96b767c5fd1b2da5e7f)
+Screenshot should be taken for: testPrivacyPolicyFooterLink(Tests.FooterMenuTests)
+Setting up chrome browser
+The value of local is:true
+I set up the iOS chrome driver
+I set up a chrome browser
+https://staging.pebblego.com
+testPrivacyPolicyFooterLink(Tests.FooterMenuTests) is restarting
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (f733cd1d3bea5b6e4add74e8bf3ae3b4)
+Screenshot should be taken for: testPrivacyPolicyFooterLink(Tests.FooterMenuTests)
+Setting up chrome browser
+The value of local is:true
+I set up the iOS chrome driver
+I set up a chrome browser
+https://staging.pebblego.com
+testPrivacyPolicyFooterLink(Tests.FooterMenuTests) is restarting
+ ====================================== Sun Jun 14 00:12:26 CDT 2020 === Execution of test case failed :testPrivacyPolicyFooterLink
+ ====================================== Sun Jun 14 00:12:26 CDT 2020 === Execution of test case failed :testPrivacyPolicyFooterLink
+ ====================================== Sun Jun 14 00:12:26 CDT 2020 === Finished execution of test case : testPrivacyPolicyFooterLink
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 23917
+Only local connections are allowed.
+Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 1812
+Only local connections are allowed.
+Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 45289
+Only local connections are allowed.
+]]></system-err>
+</testsuite>

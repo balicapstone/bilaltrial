@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="WillHall-MBPrd.roc.mn.charter.com" name="testHomeButton(Tests.StudentContentTests)" skipped="0" tests="1" time="0.066" timestamp="2020-06-14T04:54:34">
+  <properties />
+  <system-out><![CDATA[Starting test: testHomeButton
+ ====================================== Sat Jun 13 23:54:34 CDT 2020 === Finished execution of test case : testHomeButton
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+  <testcase classname="TrueUserTests.TrueUser.DescriptionAsTest" name="testHomeButton(Tests.StudentContentTests)" time="0.066" />
+</testsuite>

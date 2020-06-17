@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="1" hostname="WillHall-MBPrd.roc.mn.charter.com" name="testPebbleGoLogo(Tests.NavigationBarTests)" skipped="0" tests="1" time="6.984" timestamp="2020-06-15T15:16:12">
+  <properties />
+  <testcase classname="TrueUserTests.TrueUser.DescriptionAsTest" name="testPebbleGoLogo(Tests.NavigationBarTests)" time="6.984">
+    <error message="Asserts that the PebbleGo Logo redirects to the Main Login page and that all elements are present" type="java.lang.AssertionError">java.lang.AssertionError: Asserts that the PebbleGo Logo redirects to the Main Login page and that all elements are present
+	at Tests.NavigationBarTests.testPebbleGoLogo(NavigationBarTests.java:107)
+	at TrueUserTests.TrueUser.Retry$1.evaluate(Retry.java:24)
+	at TrueUserTests.TrueUser.RegressionSuiteRunner.main(RegressionSuiteRunner.java:158)
+</error>
+  </testcase>
+  <system-out><![CDATA[By.id: logo
+By.xpath: //*[@id="info-animals"]/a
+By.xpath: //*[@id="info-earthSpace"]/a
+By.xpath: //*[@id="info-biographies"]/a
+By.xpath: //*[@id="info-socialStudies"]/a
+By.xpath: //*[@id="info-dinosaurs"]/a
+By.linkText: FREE Trial
+By.id: pebblegonext
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (32f2317cf4939b626e523e6f7f364934)
+Screenshot should be taken for: testPebbleGoLogo(Tests.NavigationBarTests)
+Setting up chrome browser
+The value of local is:true
+I set up the iOS chrome driver
+I set up a chrome browser
+https://staging.pebblego.com
+testPebbleGoLogo(Tests.NavigationBarTests) is restarting
+By.id: logo
+By.xpath: //*[@id="info-animals"]/a
+By.xpath: //*[@id="info-earthSpace"]/a
+By.xpath: //*[@id="info-biographies"]/a
+By.xpath: //*[@id="info-socialStudies"]/a
+By.xpath: //*[@id="info-dinosaurs"]/a
+By.linkText: FREE Trial
+By.id: pebblegonext
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (0ec6cf3d7d78787309e52d84d5ca1b97)
+Screenshot should be taken for: testPebbleGoLogo(Tests.NavigationBarTests)
+Setting up chrome browser
+The value of local is:true
+I set up the iOS chrome driver
+I set up a chrome browser
+https://staging.pebblego.com
+testPebbleGoLogo(Tests.NavigationBarTests) is restarting
+By.id: logo
+By.xpath: //*[@id="info-animals"]/a
+By.xpath: //*[@id="info-earthSpace"]/a
+By.xpath: //*[@id="info-biographies"]/a
+By.xpath: //*[@id="info-socialStudies"]/a
+By.xpath: //*[@id="info-dinosaurs"]/a
+By.linkText: FREE Trial
+By.id: pebblegonext
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (77b45952ee74988f348ea5e5207908c8)
+Screenshot should be taken for: testPebbleGoLogo(Tests.NavigationBarTests)
+Setting up chrome browser
+The value of local is:true
+I set up the iOS chrome driver
+I set up a chrome browser
+https://staging.pebblego.com
+testPebbleGoLogo(Tests.NavigationBarTests) is restarting
+ ====================================== Mon Jun 15 10:16:19 CDT 2020 === Execution of test case failed :testPebbleGoLogo
+ ====================================== Mon Jun 15 10:16:19 CDT 2020 === Finished execution of test case : testPebbleGoLogo
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 2416
+Only local connections are allowed.
+Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 11252
+Only local connections are allowed.
+Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 23243
+Only local connections are allowed.
+]]></system-err>
+</testsuite>

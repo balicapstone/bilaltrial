@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="WillHall-MBPrd.roc.mn.charter.com" name="testSecondContentBreadcrumbAnimals(Tests.StudentContentTests)" skipped="0" tests="1" time="3.929" timestamp="2020-06-14T04:54:29">
+  <properties />
+  <system-out><![CDATA[Starting test: testSecondContentBreadcrumbAnimals
+ ====================================== Sat Jun 13 23:54:33 CDT 2020 === Finished execution of test case : testSecondContentBreadcrumbAnimals
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+  <testcase classname="TrueUserTests.TrueUser.DescriptionAsTest" name="testSecondContentBreadcrumbAnimals(Tests.StudentContentTests)" time="3.929" />
+</testsuite>

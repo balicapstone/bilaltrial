@@ -1,0 +1,5 @@
+package UserClasses;
+
+public enum LoginType {
+	CURRENTPRODUCT, MASTER, GOOGLE, STUDENT, TEACHER, EXPIRED, ADMIN, NONONSENSE, SUPERADMIN;
+}

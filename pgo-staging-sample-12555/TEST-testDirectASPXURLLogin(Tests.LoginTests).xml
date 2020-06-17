@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="1" hostname="WillHall-MBPrd.roc.mn.charter.com" name="testDirectASPXURLLogin(Tests.LoginTests)" skipped="0" tests="1" time="58.79" timestamp="2020-06-15T15:13:07">
+  <properties />
+  <testcase classname="TrueUserTests.TrueUser.DescriptionAsTest" name="testDirectASPXURLLogin(Tests.LoginTests)" time="58.79">
+    <error message="Tests that a student can log in through an ASPX SQS string" type="java.lang.AssertionError">java.lang.AssertionError: Tests that a student can log in through an ASPX SQS string
+	at Tests.LoginTests.testDirectASPXURLLogin(LoginTests.java:114)
+	at TrueUserTests.TrueUser.Retry$1.evaluate(Retry.java:24)
+	at TrueUserTests.TrueUser.RegressionSuiteRunner.main(RegressionSuiteRunner.java:158)
+</error>
+  </testcase>
+  <system-out><![CDATA[By.id: logo-pgo
+By.id: Animals
+By.id: Science
+By.id: Biographies
+By.id: Social Studies
+By.id: Dinosaurs
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (1294a8d9a9fab3069ffec76b2651ec1a)
+Screenshot should be taken for: testDirectASPXURLLogin(Tests.LoginTests)
+Setting up chrome browser
+The value of local is:true
+I set up the iOS chrome driver
+I set up a chrome browser
+https://staging.pebblego.com
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (52d5b7e3ef1c1cc1ae92a3758fba0d59)
+Screenshot should be taken for: FailureToRunExecuteBeforeForLoginTests
+testDirectASPXURLLogin(Tests.LoginTests) is restarting
+By.id: logo-pgo
+By.id: Animals
+By.id: Science
+By.id: Biographies
+By.id: Social Studies
+By.id: Dinosaurs
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (52d5b7e3ef1c1cc1ae92a3758fba0d59)
+Screenshot should be taken for: testDirectASPXURLLogin(Tests.LoginTests)
+Setting up chrome browser
+The value of local is:true
+I set up the iOS chrome driver
+I set up a chrome browser
+https://staging.pebblego.com
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (0e23be913f382fd4a0d497352ff565a5)
+Screenshot should be taken for: FailureToRunExecuteBeforeForLoginTests
+testDirectASPXURLLogin(Tests.LoginTests) is restarting
+By.id: logo-pgo
+By.id: Animals
+By.id: Science
+By.id: Biographies
+By.id: Social Studies
+By.id: Dinosaurs
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (0e23be913f382fd4a0d497352ff565a5)
+Screenshot should be taken for: testDirectASPXURLLogin(Tests.LoginTests)
+Setting up chrome browser
+The value of local is:true
+I set up the iOS chrome driver
+I set up a chrome browser
+https://staging.pebblego.com
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (aca411b9deb69681f9e9f2989613d352)
+Screenshot should be taken for: FailureToRunExecuteBeforeForLoginTests
+testDirectASPXURLLogin(Tests.LoginTests) is restarting
+ ====================================== Mon Jun 15 10:14:05 CDT 2020 === Execution of test case failed :testDirectASPXURLLogin
+ ====================================== Mon Jun 15 10:14:05 CDT 2020 === Finished execution of test case : testDirectASPXURLLogin
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 44194
+Only local connections are allowed.
+Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 17771
+Only local connections are allowed.
+Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 29137
+Only local connections are allowed.
+]]></system-err>
+</testsuite>

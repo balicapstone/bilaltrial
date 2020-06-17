@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="WillHall-MBPrd.roc.mn.charter.com" name="testSpanishModulesLanguageElementAttributes(Tests.RegressionPGONewHomepageTests)" skipped="0" tests="1" time="10.113" timestamp="2020-06-14T04:56:25">
+  <properties />
+  <system-out><![CDATA[ ====================================== Sat Jun 13 23:56:35 CDT 2020 === Finished execution of test case : testSpanishModulesLanguageElementAttributes
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+  <testcase classname="TrueUserTests.TrueUser.DescriptionAsTest" name="testSpanishModulesLanguageElementAttributes(Tests.RegressionPGONewHomepageTests)" time="10.113" />
+</testsuite>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="1" hostname="WillHall-MBPrd.roc.mn.charter.com" name="testExpiredSiteMessage(Tests.LoginTests)" skipped="0" tests="1" time="54.74" timestamp="2020-06-15T15:14:05">
+  <properties />
+  <testcase classname="TrueUserTests.TrueUser.DescriptionAsTest" name="testExpiredSiteMessage(Tests.LoginTests)" time="54.74">
+    <error type="java.lang.NullPointerException">java.lang.NullPointerException
+	at Tests.LoginTests.testExpiredSiteMessage(LoginTests.java:73)
+	at TrueUserTests.TrueUser.Retry$1.evaluate(Retry.java:24)
+	at TrueUserTests.TrueUser.RegressionSuiteRunner.main(RegressionSuiteRunner.java:158)
+</error>
+  </testcase>
+  <system-out><![CDATA[We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (aca411b9deb69681f9e9f2989613d352)
+Screenshot should be taken for: testExpiredSiteMessage(Tests.LoginTests)
+Setting up chrome browser
+The value of local is:true
+I set up the iOS chrome driver
+I set up a chrome browser
+https://staging.pebblego.com
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (024f7a04e4dede72e7dc41cdd2e50659)
+Screenshot should be taken for: FailureToRunExecuteBeforeForLoginTests
+testExpiredSiteMessage(Tests.LoginTests) is restarting
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (024f7a04e4dede72e7dc41cdd2e50659)
+Screenshot should be taken for: testExpiredSiteMessage(Tests.LoginTests)
+Setting up chrome browser
+The value of local is:true
+I set up the iOS chrome driver
+I set up a chrome browser
+https://staging.pebblego.com
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (353bcf044aadb897941b40758606e8bc)
+Screenshot should be taken for: FailureToRunExecuteBeforeForLoginTests
+testExpiredSiteMessage(Tests.LoginTests) is restarting
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (353bcf044aadb897941b40758606e8bc)
+Screenshot should be taken for: testExpiredSiteMessage(Tests.LoginTests)
+Setting up chrome browser
+The value of local is:true
+I set up the iOS chrome driver
+I set up a chrome browser
+https://staging.pebblego.com
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (4983ed640ead88672fc7b567bbc18e59)
+Screenshot should be taken for: FailureToRunExecuteBeforeForLoginTests
+testExpiredSiteMessage(Tests.LoginTests) is restarting
+ ====================================== Mon Jun 15 10:15:00 CDT 2020 === Execution of test case failed :testExpiredSiteMessage
+ ====================================== Mon Jun 15 10:15:00 CDT 2020 === Finished execution of test case : testExpiredSiteMessage
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 19699
+Only local connections are allowed.
+Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 8166
+Only local connections are allowed.
+Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 17852
+Only local connections are allowed.
+]]></system-err>
+</testsuite>

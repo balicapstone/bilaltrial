@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="1" hostname="WillHall-MBPrd.roc.mn.charter.com" name="testWordScrambleDinosaurs(Tests.PGOGameTests)" skipped="0" tests="1" time="71.894" timestamp="2020-06-15T14:31:58">
+  <properties />
+  <testcase classname="TrueUserTests.TrueUser.DescriptionAsTest" name="testWordScrambleDinosaurs(Tests.PGOGameTests)" time="71.894">
+    <error message="Expected condition failed: waiting for element to be clickable: By.id: start-button-link (tried for 15 second(s) with 500 milliseconds interval)" type="org.openqa.selenium.TimeoutException">org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.id: start-button-link (tried for 15 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at Tests.PGOGameTests.testWordScrambleDinosaurs(PGOGameTests.java:1580)
+	at TrueUserTests.TrueUser.Retry$1.evaluate(Retry.java:24)
+	at TrueUserTests.TrueUser.RegressionSuiteRunner.main(RegressionSuiteRunner.java:158)
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.id: start-button-link
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;3.10.0&apos;, revision: &apos;176b4a9&apos;, time: &apos;2018-03-02T19:11:12.151Z&apos;
+System info: host: &apos;WillHall-MBPrd.roc.mn.charter.com&apos;, ip: &apos;2600:6c46:7800:954:59ac:d5fb:e9a6:82fb%en0&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.14.6&apos;, java.version: &apos;1.8.0_181&apos;
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.ExpectedConditions.lambda$findElement$0(ExpectedConditions.java:896)
+	at java.util.Optional.orElseThrow(Optional.java:290)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:895)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:44)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:206)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:202)
+	at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:657)
+	at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:654)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+</error>
+  </testcase>
+  <system-out><![CDATA[We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (ae47baa51468c913f41d28e9f48bde1d)
+Screenshot should be taken for: testWordScrambleDinosaurs(Tests.PGOGameTests)
+Setting up chrome browser
+The value of local is:true
+I set up the iOS chrome driver
+I set up a chrome browser
+https://staging.pebblego.com
+testWordScrambleDinosaurs(Tests.PGOGameTests) is restarting
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (bedf03aba215a2da594d6e64163b8178)
+Screenshot should be taken for: testWordScrambleDinosaurs(Tests.PGOGameTests)
+Setting up chrome browser
+The value of local is:true
+I set up the iOS chrome driver
+I set up a chrome browser
+https://staging.pebblego.com
+testWordScrambleDinosaurs(Tests.PGOGameTests) is restarting
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (01cece773ff081d54e0c2a058e81573d)
+Screenshot should be taken for: testWordScrambleDinosaurs(Tests.PGOGameTests)
+Setting up chrome browser
+The value of local is:true
+I set up the iOS chrome driver
+I set up a chrome browser
+https://staging.pebblego.com
+testWordScrambleDinosaurs(Tests.PGOGameTests) is restarting
+ ====================================== Mon Jun 15 09:33:10 CDT 2020 === Execution of test case failed :testWordScrambleDinosaurs
+ ====================================== Mon Jun 15 09:33:10 CDT 2020 === Finished execution of test case : testWordScrambleDinosaurs
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 37898
+Only local connections are allowed.
+Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 45692
+Only local connections are allowed.
+Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 36398
+Only local connections are allowed.
+]]></system-err>
+</testsuite>

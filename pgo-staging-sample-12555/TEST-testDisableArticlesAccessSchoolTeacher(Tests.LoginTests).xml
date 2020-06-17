@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="1" hostname="WillHall-MBPrd.roc.mn.charter.com" name="testDisableArticlesAccessSchoolTeacher(Tests.LoginTests)" skipped="0" tests="1" time="58.17" timestamp="2020-06-15T15:10:08">
+  <properties />
+  <testcase classname="TrueUserTests.TrueUser.DescriptionAsTest" name="testDisableArticlesAccessSchoolTeacher(Tests.LoginTests)" time="58.17">
+    <error message="Tests that a teacher can access Disable Articles after log in" type="java.lang.AssertionError">java.lang.AssertionError: Tests that a teacher can access Disable Articles after log in
+	at Tests.LoginTests.testDisableArticlesAccessSchoolTeacher(LoginTests.java:96)
+	at TrueUserTests.TrueUser.Retry$1.evaluate(Retry.java:24)
+	at TrueUserTests.TrueUser.RegressionSuiteRunner.main(RegressionSuiteRunner.java:158)
+</error>
+  </testcase>
+  <system-out><![CDATA[We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (7a94c489f2f1aa4418ab8e0ddcda033d)
+Screenshot should be taken for: testDisableArticlesAccessSchoolTeacher(Tests.LoginTests)
+Setting up chrome browser
+The value of local is:true
+I set up the iOS chrome driver
+I set up a chrome browser
+https://staging.pebblego.com
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (1127b44cc94b80c1d9f57641b5f2417e)
+Screenshot should be taken for: FailureToRunExecuteBeforeForLoginTests
+testDisableArticlesAccessSchoolTeacher(Tests.LoginTests) is restarting
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (1127b44cc94b80c1d9f57641b5f2417e)
+Screenshot should be taken for: testDisableArticlesAccessSchoolTeacher(Tests.LoginTests)
+Setting up chrome browser
+The value of local is:true
+I set up the iOS chrome driver
+I set up a chrome browser
+https://staging.pebblego.com
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (c44b008060d64b32dec46da6fd1632b1)
+Screenshot should be taken for: FailureToRunExecuteBeforeForLoginTests
+testDisableArticlesAccessSchoolTeacher(Tests.LoginTests) is restarting
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (c44b008060d64b32dec46da6fd1632b1)
+Screenshot should be taken for: testDisableArticlesAccessSchoolTeacher(Tests.LoginTests)
+Setting up chrome browser
+The value of local is:true
+I set up the iOS chrome driver
+I set up a chrome browser
+https://staging.pebblego.com
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (449cb2a7bd51d3f2fd1e53230fd4f3b3)
+Screenshot should be taken for: FailureToRunExecuteBeforeForLoginTests
+testDisableArticlesAccessSchoolTeacher(Tests.LoginTests) is restarting
+ ====================================== Mon Jun 15 10:11:06 CDT 2020 === Execution of test case failed :testDisableArticlesAccessSchoolTeacher
+ ====================================== Mon Jun 15 10:11:06 CDT 2020 === Finished execution of test case : testDisableArticlesAccessSchoolTeacher
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 39836
+Only local connections are allowed.
+Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 5738
+Only local connections are allowed.
+Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 46508
+Only local connections are allowed.
+]]></system-err>
+</testsuite>

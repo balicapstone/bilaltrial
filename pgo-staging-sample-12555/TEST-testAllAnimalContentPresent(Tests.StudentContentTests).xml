@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="WillHall-MBPrd.roc.mn.charter.com" name="testAllAnimalContentPresent(Tests.StudentContentTests)" skipped="0" tests="1" time="2.1" timestamp="2020-06-14T04:56:06">
+  <properties />
+  <system-out><![CDATA[Starting test: testAllAnimalContentPresent
+ ====================================== Sat Jun 13 23:56:08 CDT 2020 === Finished execution of test case : testAllAnimalContentPresent
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+  <testcase classname="TrueUserTests.TrueUser.DescriptionAsTest" name="testAllAnimalContentPresent(Tests.StudentContentTests)" time="2.1" />
+</testsuite>

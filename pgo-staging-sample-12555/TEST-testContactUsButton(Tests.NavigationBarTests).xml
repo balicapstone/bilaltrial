@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="1" hostname="WillHall-MBPrd.roc.mn.charter.com" name="testContactUsButton(Tests.NavigationBarTests)" skipped="0" tests="1" time="6.523" timestamp="2020-06-15T15:18:24">
+  <properties />
+  <testcase classname="TrueUserTests.TrueUser.DescriptionAsTest" name="testContactUsButton(Tests.NavigationBarTests)" time="6.523">
+    <error message="Asserts that the Contact Us button redirects a user to the Customer Service page" type="java.lang.AssertionError">java.lang.AssertionError: Asserts that the Contact Us button redirects a user to the Customer Service page
+	at Tests.NavigationBarTests.testContactUsButton(NavigationBarTests.java:94)
+	at TrueUserTests.TrueUser.Retry$1.evaluate(Retry.java:24)
+	at TrueUserTests.TrueUser.RegressionSuiteRunner.main(RegressionSuiteRunner.java:158)
+</error>
+  </testcase>
+  <system-out><![CDATA[We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (8655d42e4ad7d7bb126226ae97b2464c)
+Screenshot should be taken for: testContactUsButton(Tests.NavigationBarTests)
+Setting up chrome browser
+The value of local is:true
+I set up the iOS chrome driver
+I set up a chrome browser
+https://staging.pebblego.com
+testContactUsButton(Tests.NavigationBarTests) is restarting
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (15a0e2b5075a2d4fec103b7fb2db6bad)
+Screenshot should be taken for: testContactUsButton(Tests.NavigationBarTests)
+Setting up chrome browser
+The value of local is:true
+I set up the iOS chrome driver
+I set up a chrome browser
+https://staging.pebblego.com
+testContactUsButton(Tests.NavigationBarTests) is restarting
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (0d48d236f038aa1a4cebd0cf3a725ccb)
+Screenshot should be taken for: testContactUsButton(Tests.NavigationBarTests)
+Setting up chrome browser
+The value of local is:true
+I set up the iOS chrome driver
+I set up a chrome browser
+https://staging.pebblego.com
+testContactUsButton(Tests.NavigationBarTests) is restarting
+ ====================================== Mon Jun 15 10:18:31 CDT 2020 === Execution of test case failed :testContactUsButton
+ ====================================== Mon Jun 15 10:18:31 CDT 2020 === Finished execution of test case : testContactUsButton
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 44576
+Only local connections are allowed.
+Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 38559
+Only local connections are allowed.
+Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 39408
+Only local connections are allowed.
+]]></system-err>
+</testsuite>

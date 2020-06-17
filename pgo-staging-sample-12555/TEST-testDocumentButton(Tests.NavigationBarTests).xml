@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="1" hostname="WillHall-MBPrd.roc.mn.charter.com" name="testDocumentButton(Tests.NavigationBarTests)" skipped="0" tests="1" time="6.878" timestamp="2020-06-15T15:16:32">
+  <properties />
+  <testcase classname="TrueUserTests.TrueUser.DescriptionAsTest" name="testDocumentButton(Tests.NavigationBarTests)" time="6.878">
+    <error message="Asserts that the Documents button redirects the user to the Documents page" type="java.lang.AssertionError">java.lang.AssertionError: Asserts that the Documents button redirects the user to the Documents page
+	at Tests.NavigationBarTests.testDocumentButton(NavigationBarTests.java:123)
+	at TrueUserTests.TrueUser.Retry$1.evaluate(Retry.java:24)
+	at TrueUserTests.TrueUser.RegressionSuiteRunner.main(RegressionSuiteRunner.java:158)
+</error>
+  </testcase>
+  <system-out><![CDATA[By.linkText: Animals Content
+By.linkText: Science Content
+By.linkText: Biographies Content
+By.linkText: Social Studies Content
+By.linkText: Dinosaurs Content
+By.linkText: PebbleGo and Multimodal Literacy
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (beb294373b220c8ef5eb8698e75158b7)
+Screenshot should be taken for: testDocumentButton(Tests.NavigationBarTests)
+Setting up chrome browser
+The value of local is:true
+I set up the iOS chrome driver
+I set up a chrome browser
+https://staging.pebblego.com
+testDocumentButton(Tests.NavigationBarTests) is restarting
+By.linkText: Animals Content
+By.linkText: Science Content
+By.linkText: Biographies Content
+By.linkText: Social Studies Content
+By.linkText: Dinosaurs Content
+By.linkText: PebbleGo and Multimodal Literacy
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (85a1f00d303a5d77fb6d71be53ed518a)
+Screenshot should be taken for: testDocumentButton(Tests.NavigationBarTests)
+Setting up chrome browser
+The value of local is:true
+I set up the iOS chrome driver
+I set up a chrome browser
+https://staging.pebblego.com
+testDocumentButton(Tests.NavigationBarTests) is restarting
+By.linkText: Animals Content
+By.linkText: Science Content
+By.linkText: Biographies Content
+By.linkText: Social Studies Content
+By.linkText: Dinosaurs Content
+By.linkText: PebbleGo and Multimodal Literacy
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (f874ae518f37470d902899db4e3fdf07)
+Screenshot should be taken for: testDocumentButton(Tests.NavigationBarTests)
+Setting up chrome browser
+The value of local is:true
+I set up the iOS chrome driver
+I set up a chrome browser
+https://staging.pebblego.com
+testDocumentButton(Tests.NavigationBarTests) is restarting
+ ====================================== Mon Jun 15 10:16:38 CDT 2020 === Execution of test case failed :testDocumentButton
+ ====================================== Mon Jun 15 10:16:38 CDT 2020 === Finished execution of test case : testDocumentButton
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 36792
+Only local connections are allowed.
+Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 30500
+Only local connections are allowed.
+Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 29084
+Only local connections are allowed.
+]]></system-err>
+</testsuite>

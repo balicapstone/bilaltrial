@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="WillHall-MBPrd.roc.mn.charter.com" name="testTexasButtonBiographies(Tests.StudentContentTests)" skipped="0" tests="1" time="2.294" timestamp="2020-06-14T04:55:34">
+  <properties />
+  <system-out><![CDATA[Starting test: testTexasButtonBiographies
+ ====================================== Sat Jun 13 23:55:36 CDT 2020 === Finished execution of test case : testTexasButtonBiographies
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+  <testcase classname="TrueUserTests.TrueUser.DescriptionAsTest" name="testTexasButtonBiographies(Tests.StudentContentTests)" time="2.294" />
+</testsuite>

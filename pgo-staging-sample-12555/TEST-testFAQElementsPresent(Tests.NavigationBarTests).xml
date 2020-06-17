@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="1" hostname="WillHall-MBPrd.roc.mn.charter.com" name="testFAQElementsPresent(Tests.NavigationBarTests)" skipped="0" tests="1" time="6.82" timestamp="2020-06-15T15:16:05">
+  <properties />
+  <testcase classname="TrueUserTests.TrueUser.DescriptionAsTest" name="testFAQElementsPresent(Tests.NavigationBarTests)" time="6.82">
+    <error message="Asserts that the FAQ button redirects a user to the FAQ page" type="java.lang.AssertionError">java.lang.AssertionError: Asserts that the FAQ button redirects a user to the FAQ page
+	at Tests.NavigationBarTests.testFAQElementsPresent(NavigationBarTests.java:64)
+	at TrueUserTests.TrueUser.Retry$1.evaluate(Retry.java:24)
+	at TrueUserTests.TrueUser.RegressionSuiteRunner.main(RegressionSuiteRunner.java:158)
+</error>
+  </testcase>
+  <system-out><![CDATA[By.linkText: PebbleGo trial page
+By.linkText: click here
+By.linkText: contact your local sales rep
+By.id: t1
+By.id: t2
+By.id: t3
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (c4f860f64bb0ded67d2c50f83deaa649)
+Screenshot should be taken for: testFAQElementsPresent(Tests.NavigationBarTests)
+Setting up chrome browser
+The value of local is:true
+I set up the iOS chrome driver
+I set up a chrome browser
+https://staging.pebblego.com
+testFAQElementsPresent(Tests.NavigationBarTests) is restarting
+By.linkText: PebbleGo trial page
+By.linkText: click here
+By.linkText: contact your local sales rep
+By.id: t1
+By.id: t2
+By.id: t3
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (ccc0425704feaab7ac2975a2f9dd71cf)
+Screenshot should be taken for: testFAQElementsPresent(Tests.NavigationBarTests)
+Setting up chrome browser
+The value of local is:true
+I set up the iOS chrome driver
+I set up a chrome browser
+https://staging.pebblego.com
+testFAQElementsPresent(Tests.NavigationBarTests) is restarting
+By.linkText: PebbleGo trial page
+By.linkText: click here
+By.linkText: contact your local sales rep
+By.id: t1
+By.id: t2
+By.id: t3
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (f7a7016cec9658378f9295f2d094639b)
+Screenshot should be taken for: testFAQElementsPresent(Tests.NavigationBarTests)
+Setting up chrome browser
+The value of local is:true
+I set up the iOS chrome driver
+I set up a chrome browser
+https://staging.pebblego.com
+testFAQElementsPresent(Tests.NavigationBarTests) is restarting
+ ====================================== Mon Jun 15 10:16:12 CDT 2020 === Execution of test case failed :testFAQElementsPresent
+ ====================================== Mon Jun 15 10:16:12 CDT 2020 === Finished execution of test case : testFAQElementsPresent
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 48279
+Only local connections are allowed.
+Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 8926
+Only local connections are allowed.
+Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 25871
+Only local connections are allowed.
+]]></system-err>
+</testsuite>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="1" hostname="WillHall-MBPrd.roc.mn.charter.com" name="testPricingButton(Tests.NavigationBarTests)" skipped="0" tests="1" time="6.628" timestamp="2020-06-15T15:16:25">
+  <properties />
+  <testcase classname="TrueUserTests.TrueUser.DescriptionAsTest" name="testPricingButton(Tests.NavigationBarTests)" time="6.628">
+    <error message="Asserts that the Pricing button redirects a user to the PebbleGo pricing page" type="java.lang.AssertionError">java.lang.AssertionError: Asserts that the Pricing button redirects a user to the PebbleGo pricing page
+	at Tests.NavigationBarTests.testPricingButton(NavigationBarTests.java:79)
+	at TrueUserTests.TrueUser.Retry$1.evaluate(Retry.java:24)
+	at TrueUserTests.TrueUser.RegressionSuiteRunner.main(RegressionSuiteRunner.java:158)
+</error>
+  </testcase>
+  <system-out><![CDATA[We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (17918c7cd0a477ec6113693d5cef2007)
+Screenshot should be taken for: testPricingButton(Tests.NavigationBarTests)
+Setting up chrome browser
+The value of local is:true
+I set up the iOS chrome driver
+I set up a chrome browser
+https://staging.pebblego.com
+testPricingButton(Tests.NavigationBarTests) is restarting
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (44dda8c48588ab4ba8eb493fcc854f2b)
+Screenshot should be taken for: testPricingButton(Tests.NavigationBarTests)
+Setting up chrome browser
+The value of local is:true
+I set up the iOS chrome driver
+I set up a chrome browser
+https://staging.pebblego.com
+testPricingButton(Tests.NavigationBarTests) is restarting
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (31870993d069d1b23ec7c6a75f593dd9)
+Screenshot should be taken for: testPricingButton(Tests.NavigationBarTests)
+Setting up chrome browser
+The value of local is:true
+I set up the iOS chrome driver
+I set up a chrome browser
+https://staging.pebblego.com
+testPricingButton(Tests.NavigationBarTests) is restarting
+ ====================================== Mon Jun 15 10:16:32 CDT 2020 === Execution of test case failed :testPricingButton
+ ====================================== Mon Jun 15 10:16:32 CDT 2020 === Finished execution of test case : testPricingButton
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 29499
+Only local connections are allowed.
+Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 6434
+Only local connections are allowed.
+Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 18411
+Only local connections are allowed.
+]]></system-err>
+</testsuite>

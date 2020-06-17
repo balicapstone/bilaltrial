@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="1" hostname="WillHall-MBPrd.roc.mn.charter.com" name="testZoomEstudiosSociales(Tests.PGOGameTests)" skipped="0" tests="1" time="69.159" timestamp="2020-06-15T14:51:30">
+  <properties />
+  <testcase classname="TrueUserTests.TrueUser.DescriptionAsTest" name="testZoomEstudiosSociales(Tests.PGOGameTests)" time="69.159">
+    <error message="Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id=&quot;newZoomButton&quot;]/div (tried for 15 second(s) with 500 milliseconds interval)" type="org.openqa.selenium.TimeoutException">org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id=&quot;newZoomButton&quot;]/div (tried for 15 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at Tests.PGOGameTests.testZoomEstudiosSociales(PGOGameTests.java:279)
+	at TrueUserTests.TrueUser.Retry$1.evaluate(Retry.java:24)
+	at TrueUserTests.TrueUser.RegressionSuiteRunner.main(RegressionSuiteRunner.java:158)
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.xpath: //*[@id=&quot;newZoomButton&quot;]/div
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;3.10.0&apos;, revision: &apos;176b4a9&apos;, time: &apos;2018-03-02T19:11:12.151Z&apos;
+System info: host: &apos;WillHall-MBPrd.roc.mn.charter.com&apos;, ip: &apos;2600:6c46:7800:954:59ac:d5fb:e9a6:82fb%en0&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.14.6&apos;, java.version: &apos;1.8.0_181&apos;
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.ExpectedConditions.lambda$findElement$0(ExpectedConditions.java:896)
+	at java.util.Optional.orElseThrow(Optional.java:290)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:895)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:44)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:206)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:202)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+</error>
+  </testcase>
+  <system-out><![CDATA[We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (b1c6b64db43777c8a32ddd271b0a8153)
+Screenshot should be taken for: testZoomEstudiosSociales(Tests.PGOGameTests)
+Setting up chrome browser
+The value of local is:true
+I set up the iOS chrome driver
+I set up a chrome browser
+https://staging.pebblego.com
+testZoomEstudiosSociales(Tests.PGOGameTests) is restarting
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (d7bc79b5f84bac832bcfb287c59247f0)
+Screenshot should be taken for: testZoomEstudiosSociales(Tests.PGOGameTests)
+Setting up chrome browser
+The value of local is:true
+I set up the iOS chrome driver
+I set up a chrome browser
+https://staging.pebblego.com
+testZoomEstudiosSociales(Tests.PGOGameTests) is restarting
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (822eada4d0d032cc9055747067d105e7)
+Screenshot should be taken for: testZoomEstudiosSociales(Tests.PGOGameTests)
+Setting up chrome browser
+The value of local is:true
+I set up the iOS chrome driver
+I set up a chrome browser
+https://staging.pebblego.com
+testZoomEstudiosSociales(Tests.PGOGameTests) is restarting
+ ====================================== Mon Jun 15 09:52:39 CDT 2020 === Execution of test case failed :testZoomEstudiosSociales
+ ====================================== Mon Jun 15 09:52:39 CDT 2020 === Finished execution of test case : testZoomEstudiosSociales
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 2582
+Only local connections are allowed.
+Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 39467
+Only local connections are allowed.
+Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 37289
+Only local connections are allowed.
+]]></system-err>
+</testsuite>

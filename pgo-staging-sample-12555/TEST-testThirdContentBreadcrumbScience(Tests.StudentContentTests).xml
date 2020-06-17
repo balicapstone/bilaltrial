@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="WillHall-MBPrd.roc.mn.charter.com" name="testThirdContentBreadcrumbScience(Tests.StudentContentTests)" skipped="0" tests="1" time="4.426" timestamp="2020-06-14T04:55:41">
+  <properties />
+  <system-out><![CDATA[Starting test: testThirdContentBreadcrumbScience
+ ====================================== Sat Jun 13 23:55:45 CDT 2020 === Finished execution of test case : testThirdContentBreadcrumbScience
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+  <testcase classname="TrueUserTests.TrueUser.DescriptionAsTest" name="testThirdContentBreadcrumbScience(Tests.StudentContentTests)" time="4.426" />
+</testsuite>

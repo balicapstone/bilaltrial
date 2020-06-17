@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="1" hostname="WillHall-MBPrd.roc.mn.charter.com" name="testStudentSQS(Tests.LoginTests)" skipped="0" tests="1" time="60.292" timestamp="2020-06-15T15:11:06">
+  <properties />
+  <testcase classname="TrueUserTests.TrueUser.DescriptionAsTest" name="testStudentSQS(Tests.LoginTests)" time="60.292">
+    <error message="Tests that a student can log in through an SQS string" type="java.lang.AssertionError">java.lang.AssertionError: Tests that a student can log in through an SQS string
+	at Tests.LoginTests.testStudentSQS(LoginTests.java:123)
+	at TrueUserTests.TrueUser.Retry$1.evaluate(Retry.java:24)
+	at TrueUserTests.TrueUser.RegressionSuiteRunner.main(RegressionSuiteRunner.java:158)
+</error>
+  </testcase>
+  <system-out><![CDATA[By.id: logo-pgo
+By.id: Animals
+By.id: Science
+By.id: Biographies
+By.id: Social Studies
+By.id: Dinosaurs
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (449cb2a7bd51d3f2fd1e53230fd4f3b3)
+Screenshot should be taken for: testStudentSQS(Tests.LoginTests)
+Setting up chrome browser
+The value of local is:true
+I set up the iOS chrome driver
+I set up a chrome browser
+https://staging.pebblego.com
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (0bc7d8a46112d579f9afa7f6e8a6573c)
+Screenshot should be taken for: FailureToRunExecuteBeforeForLoginTests
+testStudentSQS(Tests.LoginTests) is restarting
+By.id: logo-pgo
+By.id: Animals
+By.id: Science
+By.id: Biographies
+By.id: Social Studies
+By.id: Dinosaurs
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (0bc7d8a46112d579f9afa7f6e8a6573c)
+Screenshot should be taken for: testStudentSQS(Tests.LoginTests)
+Setting up chrome browser
+The value of local is:true
+I set up the iOS chrome driver
+I set up a chrome browser
+https://staging.pebblego.com
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (ba11cce044a647ce72a25eab76166de4)
+Screenshot should be taken for: FailureToRunExecuteBeforeForLoginTests
+testStudentSQS(Tests.LoginTests) is restarting
+By.id: logo-pgo
+By.id: Animals
+By.id: Science
+By.id: Biographies
+By.id: Social Studies
+By.id: Dinosaurs
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (ba11cce044a647ce72a25eab76166de4)
+Screenshot should be taken for: testStudentSQS(Tests.LoginTests)
+Setting up chrome browser
+The value of local is:true
+I set up the iOS chrome driver
+I set up a chrome browser
+https://staging.pebblego.com
+We set up the folder
+The value for the webdriver isChromeDriver: chrome on MAC (2c47000e68b3914c711ca62c76ea64f7)
+Screenshot should be taken for: FailureToRunExecuteBeforeForLoginTests
+testStudentSQS(Tests.LoginTests) is restarting
+ ====================================== Mon Jun 15 10:12:06 CDT 2020 === Execution of test case failed :testStudentSQS
+ ====================================== Mon Jun 15 10:12:06 CDT 2020 === Finished execution of test case : testStudentSQS
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 37122
+Only local connections are allowed.
+Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 4330
+Only local connections are allowed.
+Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 6375
+Only local connections are allowed.
+]]></system-err>
+</testsuite>

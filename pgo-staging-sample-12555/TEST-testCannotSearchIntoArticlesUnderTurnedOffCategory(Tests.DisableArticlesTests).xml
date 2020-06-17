@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="WillHall-MBPrd.roc.mn.charter.com" name="testCannotSearchIntoArticlesUnderTurnedOffCategory(Tests.DisableArticlesTests)" skipped="0" tests="1" time="0.011" timestamp="2020-06-15T15:19:11">
+  <properties />
+  <system-out><![CDATA[Starting test: testCannotSearchIntoArticlesUnderTurnedOffCategory
+ ====================================== Mon Jun 15 10:19:11 CDT 2020 === Finished execution of test case : testCannotSearchIntoArticlesUnderTurnedOffCategory
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+  <testcase classname="TrueUserTests.TrueUser.DescriptionAsTest" name="testCannotSearchIntoArticlesUnderTurnedOffCategory(Tests.DisableArticlesTests)" time="0.011" />
+</testsuite>
